@@ -1,8 +1,6 @@
-## Package Repository for the Demand Console Project. 
-
 
 <h1 align="center">
-  The Abstrakt Project Repository
+  The Demand Console Package Repository
   <br>
 </h1>
 
