@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Abstrakt is a system-level application designed to target, kill and remove a running process by name. Useful for large-scale operations in certain work environments.</h4>
+<h4 align="center">Demand is a multi-feature, system-level command line interface (CLI). Includes built-in ssh, or uses Host's ssh, network discovery, dns & rdns lookup, zap and nmap assisted scanning and more!</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
