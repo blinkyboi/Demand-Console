@@ -4,15 +4,15 @@
   <br>
 </h1>
 
-<h4 align="center">Demand is a multi-feature, system-level command line interface (CLI). Includes built-in ssh, or uses Host's ssh, network discovery, dns & rdns lookup, zap and nmap assisted scanning and more!</h4>
+<h4 align="center">Demand is a multi-feature, system-level command line interface (CLI). Includes built-in ssh, or uses system installed ssh, network discovery, dns & rdns lookup, zap and nmap assisted scanning and more!</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#contribute">Contribute</a> •
+  <a href="#disclaimer">Disclaimer</a>
 </p>
 
 
