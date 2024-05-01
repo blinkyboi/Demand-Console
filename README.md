@@ -30,28 +30,29 @@
 
 ### Installation
 
+Demand Console does not have any `.msi` install wizards and does not need to be installed, pretty cool right? 
+
 ```
-# Download Release package 
-$ git clone https://github.com/Team12RunnersLLC/Abstrakt
+# Download the latest release from the link below
+# https://github.com/blinkyboi/Demand-Console/releases/latest
 
 # Run Demand Console
 $ demand.exe
 ```
 
 > **Note**:
-> For optimal performance, currently only Windows is supported.
-> *Python 3.6+ is required to be installed & available in system PATH before running `.py` file.*
+> For optimal performance, currently only Windows is supported. Make sure to keep DMD updated.
 
----
 
 ### Usage
 
- If you **compiled** the source `.py` file, simply run the `.exe` file, otherwise run the `.py` file directly.
+Simply run `demand.exe`. Nothing else needed :)
 
+---
 
 ## Contribute
 
-We appreciate your intrest in contributing to this project and we welcome all contributors. We encourage you to read our [issues guide](https://github.com/blinkyboi/Demand/contribute/reporting-guide.md) before reporting any issues and the [contribution guide](https://github.com/blinkyboi/Demand/contribute/contribute.md) to help you get started.
+We appreciate your intrest in contributing to this project and we welcome all contributors. We encourage you to read our [issues guide](https://github.com/blinkyboi/Demand-Console/reporting-guide.md) before reporting any issues and the [contribution guide](https://github.com/blinkyboi/Demand-Console/contribute.md) to help you get started.
 
 
 ## Support
@@ -67,29 +68,30 @@ We appreciate your intrest in contributing to this project and we welcome all co
 > Discord Handle: [dr.heinzdoofenshmirtz33](https://discord.com/channels/@me)
 
 ```                                                            
-                          WARNING:                             
+                          WARNING:
 
 UNAUTHORIZED COPYING, TRANSFER, DISTRIBUTION OR REPLICATION
 OF THIS SOFTWARE IN ANY WAY AND BY ANY MEDIUM IS STRICTLY
 PROHIBITED. BY USING THIS SOFTWARE, YOU AGREE TO THE TERMS
-AND CONDITIONS FOUND IN: Demand/bin/policies/terms.md
+AND CONDITIONS FOUND IN: Demand-Console/terms.md
 
 
-                         DISCLAIMER:                          
-                                                               
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY      
-KIND, EXPRESS OR IMPLIED. Team12Runners LLC, Inc. DISCLAIMS    
-ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF     
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND         
-NON-INFRINGMENT. Team12Runners LLC, Inc. SHALL NOT BE LIABLE   
-FOR ANY DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE.       
-                                                              
-DO NOT REPRODUCE WITHOUT INCLUDING THIS DISCLAIMER OR EXPLICIT WRITTEN PERMISSION FROM:
+                         DISCLAIMER:
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED. Team12Runners LLC, Inc. DISCLAIMS
+ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGMENT. Team12Runners LLC, Inc. SHALL NOT BE LIABLE
+FOR ANY DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE.
+
+DO NOT REPRODUCE WITHOUT INCLUDING THIS COPYRIGHT PORTION UNALTERED.
+DO NOT REPRODUCE WITHOUT EXPLICIT WRITTEN PERMISSION FROM:
 
 # @Team12Runners
 
-# @Blinkyboi                         
-                                                               
+# @Blinkyboi
+
  ```                                                              
 
 
